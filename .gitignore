@@ -1,0 +1,6 @@
+# Ignore common browser extension build artifacts if any are generated
+*.zip
+*.crx
+
+# Node modules are not used in the extension itself
+/node_modules

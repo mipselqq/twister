@@ -1,0 +1,37 @@
+{
+    "manifest_version": 3,
+    "name": "Twister",
+    "version": "1.0",
+    "description": "Applies sequential translations to the current webpage.",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup/popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "js": [
+                "worker.js"
+            ],
+            "run_at": "document_idle"
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": [
+                "translate.js",
+                "pipeline.js",
+                "url.js",
+                "plugins/*.js"
+            ],
+            "matches": [
+                "<all_urls>"
+            ]
+        }
+    ]
+}
