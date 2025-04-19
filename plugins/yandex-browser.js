@@ -2,7 +2,7 @@ export const PLUGIN = {
     name: "Yandex browser translate",
     maxTextLength: 3500,
     separator: "\n\n\n",
-    maxParallelWorkers: 2,
+    maxParallelWorkers: 4,
     sleepAfterMs: 50,
     strategy: yandexTranslate,
 }

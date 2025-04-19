@@ -1,91 +1,75 @@
 export const TRANSLATION_PIPELINE = [
-    "ab",    // Abkhaz
-    "zh",    // Chinese (Simplified)
-    "sw",    // Swahili
-    "fi",    // Finnish
+    "zh",    // Simplified Chinese
     "ar",    // Arabic
-    "ja",    // Japanese
-    "zu",    // Zulu
-    "tr",    // Turkish
-    "he",    // Hebrew
-    "vi",    // Vietnamese
-    "is",    // Icelandic
-    "yo",    // Yoruba
-    "th",    // Thai
     "ru",    // Russian
-    "ms",    // Malay
-    "el",    // Greek
     "am",    // Amharic
-    "es",    // Spanish
-    "km",    // Khmer
-    "no",    // Norwegian
-    "pa",    // Punjabi
-    "ko",    // Korean
-    "ha",    // Hausa
+    "sw",    // Swahili
+    "uk",    // Ukrainian
     "fr",    // French
-    "hi",    // Hindi
-    "hu",    // Hungarian
-    "so",    // Somali
-    "it",    // Italian
-    "ta",    // Tamil
-    "pl",    // Polish
-    "ig",    // Igbo
-    "sv",    // Swedish
+    "ja",    // Japanese
+    "es",    // Spanish
+    "tr",    // Turkish
     "bn",    // Bengali
+    "vi",    // Vietnamese
+    "pl",    // Polish
+    "it",    // Italian
+    "cs",    // Czech
+    "pt",    // Portuguese
+    "ml",    // Malayalam
     "sr",    // Serbian
     "id",    // Indonesian
-    "uk",    // Ukrainian
-    "pt",    // Portuguese
-    "mn",    // Mongolian
-    "sk",    // Slovak
-    "rw",    // Kinyarwanda
+    "hu",    // Hungarian
     "nl",    // Dutch
-    "ga",    // Irish
-    "az",    // Azerbaijani
-    "st",    // Sesotho
-    "ml",    // Malayalam
-    "cs",    // Czech
-    "lt",    // Lithuanian
-    "ro",    // Romanian
-    "ps",    // Pashto
-    "lv",    // Latvian
-    "da",    // Danish
-    "ne",    // Nepali
+    "sv",    // Swedish
+    "hi",    // Hindi
+    "th",    // Thai
+    "el",    // Greek
     "bg",    // Bulgarian
-    "ur",    // Urdu
-    "et",    // Estonian
+    "ro",    // Romanian
+    "az",    // Azerbaijani
+    "km",    // Khmer
     "my",    // Burmese
-    "mt",    // Maltese
-    "lo",    // Lao
-    "eu",    // Basque
-    "sq",    // Albanian
-    "tn",    // Tswana
-    "ka",    // Georgian
-    "be",    // Belarusian
-    "sm",    // Samoan
-    "gd",    // Scots Gaelic
-    "fa",    // Persian
-    "af",    // Afrikaans
-    "si",    // Sinhala
+    "ur",    // Urdu
+    "da",    // Danish
+    "fi",    // Finnish
+    "sk",    // Slovak
+    "no",    // Norwegian
+    "ca",    // Catalan
+    "lt",    // Lithuanian
+    "lv",    // Latvian
     "sl",    // Slovenian
-    "tt",    // Tatar
-    "mr",    // Marathi
-    "lb",    // Luxembourgish
-    "de",    // German
-    "te",    // Telugu
-    "sn",    // Shona
-    "luo",   // Luo
-    "ss",    // Swati
-    "jw",    // Javanese
-    "ckb",   // Kurdish (Sorani)
-    "ak",    // Twi (Akan)
-    "qu",    // Quechua
-    "ln",    // Lingala
-    "sd",    // Sindhi
-    "rn",    // Rundi
-    "ff",    // Fulfulde
-    "ny",    // Chichewa (Nyanja)
+    "gl",    // Galician
+    "zu",    // Zulu
     "xh",    // Xhosa
-    "yi",    // Yiddish
-    "yua",   // Yucatec Maya
+    "tt",    // Tatar
+    "mn",    // Mongolian
+    "ga",    // Irish
+    "ko",    // Korean
+    "sq",    // Albanian
+    "hr",    // Croatian
+    "mk",    // Macedonian
+    "et",    // Estonian
+    "ne",    // Nepali
+    "la",    // Latin
+    "is",    // Icelandic
+    "cy",    // Welsh
+    "tl",    // Tagalog
+    "te",    // Telugu
+    "pa",    // Punjabi
+    "mr",    // Marathi
+    "si",    // Sinhala
+    "oc",    // Occitan
+    "ka",    // Georgian
+    "eu",    // Basque
+    "hy",    // Armenian
+    "bs",    // Bosnian
+    "ht",    // Haitian Creole
+    "ky",    // Kyrgyz
+    "lo",    // Lao
+    "tk",    // Turkmen
+    "rw",    // Kinyarwanda
+    "so",    // Somali
+    "haw",   // Hawaiian
+    "jv",    // Javanese
+    "be",    // Belarusian
 ];
