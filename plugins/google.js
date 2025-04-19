@@ -1,6 +1,6 @@
 export const PLUGIN = {
     name: "Google Translate",
-    maxTextLength: 1000,
+    maxTextLength: 500000,
     separator: "</p>",
     maxParallelWorkers: Infinity,
     sleepAfterMs: 300,
